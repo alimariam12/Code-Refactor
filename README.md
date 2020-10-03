@@ -5,5 +5,9 @@
 This week we were given an on-the-job ticket meaning we have to refractor an already existing code. 
 
 ### Installation
-I began by downloading the homework from gitlab on to my computer. Then I created a new repository on my github and cloned that repository `git@github.com:alimariam12/Code-Refactor.git` to my terminal. Then I moved to homework to the appropriate folder and command ` code .` to start the work. 
+  For this assignment you will need:
+  - A new repository for the assignment and clone to repository `git@github.com:alimariam12/Code-Refactor.git` to the terminal.
+  - Visual Studio Code: after downloading the homework to the appropriate folder, use command `code .` to get to VSC. 
 
+### Usage 
+![Code-Refactor_index html](https://user-images.githubusercontent.com/71665063/95003536-e5ea1c80-05a5-11eb-946b-8f6dc36f84e0.png)
