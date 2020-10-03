@@ -86,7 +86,8 @@ p {
     background-color: #2589bd;
 }
 
-/* Grouped */
+/* Grouped up benefit-lead, benefit-brand, benefit-cost bc they are all under class=benefits by using .benefits > div to avoid repetition */
+/* did the same with content > div */
 
 .benefits > div {
     margin-bottom: 32px;
@@ -121,7 +122,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* Didn't delete footers so there can be a space on the bottom. */
+/* Didn't delete footers so there can be a space on the bottom to match the mock-up. */
 .footer {
     padding: 30px;
     clear: both;
