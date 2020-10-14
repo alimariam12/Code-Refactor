@@ -15,9 +15,8 @@ This week we were given an on-the-job ticket meaning we have to refractor an alr
 
 ### Usage 
 
-
-=======
 ![Code-Refactor_index html](https://user-images.githubusercontent.com/71665063/95003536-e5ea1c80-05a5-11eb-946b-8f6dc36f84e0.png)
+
 
 ### License
 `Made with ❤️️ by Horiseon
