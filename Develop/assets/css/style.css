@@ -86,10 +86,10 @@ p {
     background-color: #2589bd;
 }
 
-/* Grouped up benefit-lead, benefit-brand, benefit-cost bc they are all under class=benefits by using .benefits > div to avoid repetition */
-/* did the same with content > div */
+/* Grouped up benefit-lead, benefit-brand, benefit-cost bc they are all under class=benefits by using .benefits > section  to avoid repetition */
+/* did the same with content > article */
 
-.benefits > div {
+.benefits > section{
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -104,8 +104,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
-.content > div{
+/* Made 'content > article' so there's no need for repeating */
+.content > article{
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -121,15 +121,4 @@ p {
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
-/* Didn't delete footers so there can be a space on the bottom to match the mock-up. */
-.footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-.footer h2 {
-    font-size: 20px;
 }
