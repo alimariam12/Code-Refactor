@@ -15,7 +15,7 @@ This week we were given an on-the-job ticket meaning we have to refractor an alr
 
 ### Usage 
 
-![My website](./)
+
 =======
 ![Code-Refactor_index html](https://user-images.githubusercontent.com/71665063/95003536-e5ea1c80-05a5-11eb-946b-8f6dc36f84e0.png)
 
@@ -23,4 +23,4 @@ This week we were given an on-the-job ticket meaning we have to refractor an alr
 `Made with ❤️️ by Horiseon
 2019 Horiseon Social Solution Services, Inc.`
 
->>>>>>> f2c006c105c3ac44c2a78e4078c60ad6cd896b4a
+
