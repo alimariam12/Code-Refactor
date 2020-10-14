@@ -3,8 +3,6 @@
 
 ### Task
 
-This week we were given an on-the-job ticket meaning we have to refractor an already existing code. 
-=======
 This week we were given an on-the-job ticket meaning we have to refractor an already existing code. There were changes that I made in the HTML and CSS files to make it look clear and operate correctly. 
 
 
